@@ -33,6 +33,7 @@ Hoje, paralelamente, estou estudando segurança da informação. Faz sentido —
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Redes%20%26%20Protocolos-00599C?style=for-the-badge&logo=cisco&logoColor=white" />
 </p>
+
 ---
  
 ### Atuações
