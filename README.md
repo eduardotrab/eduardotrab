@@ -1,8 +1,8 @@
-# Eduardo Trabalon 👋
+# Eduardo Lima 👋
  
 > Analista de Dados · Setor Financeiro & Elétrico · estudando CyberSec nas horas vagas
  
-Trabalho com dados há alguns anos - cooperativa de crédito e setor elétrico ao mesmo tempo, dois mundos bem diferentes. No financeiro é BACEN, indicadores de carteira, painéis para diretoria. No elétrico é operação, regulatório, automação de rotinas que antes tomavam horas.
+Trabalho com dados há alguns anos - comecei no setor elétrico e agora atuo no setor Financeiro, dois mundos bem diferentes. No financeiro é BACEN, indicadores de carteira, painéis para diretoria. No elétrico é operação, regulatório, automação de rotinas que antes tomavam horas.
  
 Aprendi tudo na necessidade: Excel virou VBA, VBA virou SQL, SQL virou Power BI, Power BI virou Python. Cada ferramenta apareceu porque a anterior não dava mais conta.
  
