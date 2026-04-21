@@ -23,6 +23,7 @@ Hoje, paralelamente, estou estudando segurança da informação. Faz sentido —
   <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=microsoft&logoColor=black" />
   <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
+
 ### Estudando agora
  
 <p align="left">
