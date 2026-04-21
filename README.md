@@ -57,9 +57,9 @@ Hoje, paralelamente, estou estudando segurança da informação. Faz sentido —
  
 ### Onde me encontrar
  
-<a href="https://linkedin.com/in/SEU_LINKEDIN">
+<a href="https://linkedin.com/in/eduardolimak">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:SEU_EMAIL">
+<a href="mailto:carlos.lima.trabalho@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
