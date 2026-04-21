@@ -34,7 +34,7 @@ Hoje, paralelamente, estou estudando segurança da informação. Faz sentido —
 </p>
 ---
  
-### Onde atuo
+### Atuações
  
 **Setor Financeiro** - Painéis gerenciais, dados regulatórios do BACEN, automações de relatórios mensais que antes eram feitos na mão.
  
